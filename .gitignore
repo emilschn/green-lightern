@@ -1,0 +1,5 @@
+node_modules/*
+app/config.js
+app/repo-config.js
+/nbproject/*
+temp/*
